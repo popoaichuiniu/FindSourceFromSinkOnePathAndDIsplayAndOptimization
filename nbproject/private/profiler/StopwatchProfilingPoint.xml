@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="0_start_p_location_line">232</entry>
+<entry key="1_p_enabled">true</entry>
+<entry key="1_end_p_location_offset">2147483647</entry>
+<entry key="2_start_p_location_line">288</entry>
+<entry key="2_p_name">display</entry>
+<entry key="3_end_p_location_offset">2147483647</entry>
+<entry key="0_p_name">import</entry>
+<entry key="2_p_enabled">true</entry>
+<entry key="1_start_p_location_file">{$projectDirectory}/src/javaapplication1/MainJFrame2.java</entry>
+<entry key="0_end_p_location_line">253</entry>
+<entry key="3_end_p_location_file">{$projectDirectory}/src/javaapplication1/MainJFrame2.java</entry>
+<entry key="1_end_p_location_line">275</entry>
+<entry key="3_start_p_location_file">{$projectDirectory}/src/javaapplication1/MainJFrame2.java</entry>
+<entry key="2_end_p_location_line">293</entry>
+<entry key="0_start_p_location_offset">-2147483648</entry>
+<entry key="3_p_enabled">true</entry>
+<entry key="1_start_p_location_offset">-2147483648</entry>
+<entry key="2_start_p_location_offset">-2147483648</entry>
+<entry key="0_start_p_location_file">{$projectDirectory}/src/javaapplication1/MainJFrame2.java</entry>
+<entry key="3_start_p_location_offset">-2147483648</entry>
+<entry key="2_start_p_location_file">{$projectDirectory}/src/javaapplication1/MainJFrame2.java</entry>
+<entry key="3_p_name">preProcess</entry>
+<entry key="1_p_name">layout</entry>
+<entry key="0_end_p_location_file">{$projectDirectory}/src/javaapplication1/MainJFrame2.java</entry>
+<entry key="0_end_p_location_offset">2147483647</entry>
+<entry key="1_end_p_location_file">{$projectDirectory}/src/javaapplication1/MainJFrame2.java</entry>
+<entry key="1_start_p_location_line">258</entry>
+<entry key="2_end_p_location_file">{$projectDirectory}/src/javaapplication1/MainJFrame2.java</entry>
+<entry key="0_p_enabled">true</entry>
+<entry key="2_end_p_location_offset">2147483647</entry>
+<entry key="3_end_p_location_line">1638</entry>
+<entry key="3_start_p_location_line">1621</entry>
+</properties>
